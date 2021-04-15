@@ -8,9 +8,9 @@
     "scripts": ["./beyond20.js"],
     "styles": ["./beyond20.css"],
     "packs": [],
-    "url": "https://https://github.com/TheStonedGuest/Beyond20-Foundry-PAW",
-    "manifest": "https://https://github.com/TheStonedGuest/Beyond20-Foundry-PAW/releases/download/1.2/module.json",
-    "download": "https://https://github.com/TheStonedGuest/Beyond20-Foundry-PAW/releases/download/1.2/Beyond20-Foundry-PAW.zip",
+    "url": "https://github.com/TheStonedGuest/Beyond20-Foundry-PAW",
+    "manifest": "https://github.com/TheStonedGuest/Beyond20-Foundry-PAW/releases/download/1.3/module.json",
+    "download": "https://github.com/TheStonedGuest/Beyond20-Foundry-PAW/releases/download/1.3/Beyond20-Foundry-PAW.zip",
     "minimumCoreVersion": "0.6.0",
     "compatibleCoreVersion": "0.7.10"
 }
